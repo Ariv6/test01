@@ -1,2 +1,2 @@
 this is another file
-new change 11111
+new change 11111adding text from command
