@@ -1,2 +1,1 @@
-this is another file
-new change 11111adding text from command
+another change to test stored git credentials
